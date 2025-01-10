@@ -1,5 +1,5 @@
+<img src="https://storage.googleapis.com/gweb-cloudblog-publish/original_images/MLOps_Kloeckner_Hero_Banner_1920x946.gif" alt="git" width="6000" height="400"/>
 <h1 align="center">Hi 👋, I'm Naresh</h1>
-<img src="https://storage.googleapis.com/gweb-cloudblog-publish/original_images/MLOps_Kloeckner_Hero_Banner_1920x946.gif" alt="git" width="4000" height="600"/>
 <h3 align="center">A passionate Azure DevOps Engineer from India</h3>
 
 - 🔭 I’m currently working on **Azure MLOps**
